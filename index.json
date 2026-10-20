@@ -1,0 +1,11 @@
+{
+  "org": "jaraco",
+  "repo": "jaraco.xonsh",
+  "versions": [
+    {
+      "commit": "57681130fa433af813a0197357db63f75d14dcad",
+      "tag": "",
+      "parsed_at": "2026-10-20T11:18:46.702889+00:00"
+    }
+  ]
+}
